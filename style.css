@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(226, 237, 142);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.co_1,
+.co_2 {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(188, 221, 175);
+    border-radius: 10px;
+}
+
+#first-name,
+#last-name,
+#pincode,
+#state,
+#country {
+    width: 230px;
+    border: none;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#address{
+    width: 230px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
